@@ -1,1 +1,1 @@
-print("Hello world from Travis CI", a)
+print("Hello world from Travis CI")
